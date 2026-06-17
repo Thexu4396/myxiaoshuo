@@ -1,0 +1,4 @@
+interface:
+  display_name: "故事审查"
+  short_description: "检查一致性、节奏、爽点和AI味"
+  default_prompt: "Use story-reviewer to review this chapter for continuity and pacing issues."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目状态"
+  short_description: "只读汇总项目进度和风险缺口"
+  default_prompt: "Use project-status to summarize the current story project status."

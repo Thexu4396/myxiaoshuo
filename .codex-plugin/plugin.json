@@ -1,0 +1,36 @@
+{
+  "name": "ai-story-craft",
+  "version": "1.0.0",
+  "description": "Codex 与 GPT-5.4 使用的长篇 AI 创作 rules 和 skills 包，覆盖架构、规划、写章、审查、查询与记忆沉淀。",
+  "author": {
+    "name": "13655"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "story",
+    "fiction",
+    "codex",
+    "writing",
+    "review",
+    "planning"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI Story Craft",
+    "shortDescription": "长篇故事创作 rules 与 skills",
+    "longDescription": "面向 Codex 与 GPT-5.4 的 AI 长篇创作技能包：把脑洞转为设定与总纲，拆卷纲章纲，写可发布章节，审查一致性与追读力，查询项目 canon，并沉淀个人写作偏好。",
+    "developerName": "13655",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Review",
+      "Research"
+    ],
+    "defaultPrompt": [
+      "使用 story-architect 搭建一本新书。",
+      "使用 plot-planner 规划第一卷。",
+      "使用 chapter-writer 写下一章。"
+    ],
+    "brandColor": "#0F766E"
+  }
+}

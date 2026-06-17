@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧情规划"
+  short_description: "拆卷纲、时间线和章节节拍"
+  default_prompt: "Use plot-planner to plan the first volume and chapter beats."

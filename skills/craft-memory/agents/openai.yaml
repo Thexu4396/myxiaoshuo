@@ -1,0 +1,4 @@
+interface:
+  display_name: "创作记忆"
+  short_description: "沉淀有效写法和项目经验"
+  default_prompt: "Use craft-memory to remember this effective writing pattern."

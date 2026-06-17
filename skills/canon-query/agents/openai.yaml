@@ -1,0 +1,4 @@
+interface:
+  display_name: "设定查询"
+  short_description: "查询设定、角色、伏笔和时间线"
+  default_prompt: "Use canon-query to answer a project-canon question with source references."

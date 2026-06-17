@@ -1,0 +1,4 @@
+interface:
+  display_name: "章节写作"
+  short_description: "按章纲和设定写可发布正文"
+  default_prompt: "Use chapter-writer to draft the next publishable chapter."
