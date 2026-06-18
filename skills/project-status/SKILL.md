@@ -14,9 +14,11 @@ Provide a read-only project status view from local files.
 - project root and write safety
 - `设定集/` completeness
 - `大纲/` completeness
+- long-line tracker completeness, if `大纲/长线追踪.md` exists
 - `正文/` latest chapter
 - `.webnovel/state.json` if present
 - open loops and dangling promises visible in outlines, notes, or chapter text
+- character-state, relationship-line, foreshadowing, and world-rule change risks
 
 ## Output
 
@@ -24,6 +26,8 @@ Provide a read-only project status view from local files.
 ## 项目状态
 
 ## 最近章节
+
+## 长线追踪
 
 ## 风险与缺口
 

@@ -13,8 +13,10 @@ Create or update:
 
 - `.webnovel/state.json`
 - `.webnovel/idea_bank.json`
+- `设定集/作品总设定.md`
 - `设定集/世界观.md`
 - `设定集/力量体系.md`
+- `设定集/人物卡.md` or role-specific character cards
 - `设定集/主角卡.md`
 - `设定集/反派设计.md`
 - `大纲/总纲.md`
@@ -26,7 +28,9 @@ Create or update:
 3. Propose 2-3 creative packages: selling point, anti-trope rule, 2-3 hard constraints, protagonist flaw driver, antagonist mirror, and opening hook.
 4. Ask for confirmation before writing canon.
 5. Generate files under a safe title-derived project folder unless the user explicitly chooses the current folder.
-6. Verify that core files exist and are not placeholder-only.
+6. When creating the story foundation, include a story-bible level view: core experience, public/hidden truth, unbreakable rules, relationship network, confirmed facts, forbidden changes, and serial-maintenance notes.
+7. For important characters, include current-state tracking and "most likely to be written badly" warnings, not only static traits.
+8. Verify that core files exist and are not placeholder-only.
 
 ## References
 
@@ -39,6 +43,8 @@ Load only what the current decision needs:
 - `references/creativity/selling-points.md`: selling point patterns.
 - `references/worldbuilding/*.md`: world, faction, power, character, and consistency checks.
 - `../../templates/output/*.md`: output skeletons.
+- `../../templates/output/作品总设定.md`: story-bible skeleton.
+- `../../templates/output/设定集-人物卡.md`: general character sheet skeleton.
 
 Use `scripts/reference_search.py` for CSV lookup when naming, trope, scene, or setting knowledge is needed.
 
@@ -49,6 +55,8 @@ Use `scripts/reference_search.py` for CSV lookup when naming, trope, scene, or s
 - The world rules limit choices instead of only decorating them.
 - The power/golden-finger has cost, boundary, visibility, and growth rhythm.
 - The creative constraints are strong enough to prevent generic execution.
+- Confirmed facts and forbidden-change items are explicit enough for later planning and chapter writing.
+- Major characters have a dramatic function, internal driver, behavior under pressure, relationship hook, and current-state tracking.
 
 ## Output
 

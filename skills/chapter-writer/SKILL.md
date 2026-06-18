@@ -12,19 +12,24 @@ Produce one publishable chapter from canon and the current chapter plan.
 ## Workflow
 
 1. Load only relevant canon: current outline, recent chapters, character state, power rules, open loops, and project memory.
-2. Build a writing brief: hard constraints, must-cover beats, forbidden contradictions, style targets, and end hook.
-3. Draft pure prose. Do not include placeholders, analysis, or hidden notes in the chapter body.
-4. Review once for blocking issues.
-5. Polish for rhythm, dialogue intent, scene texture, emotional specificity, and anti-AI patterns.
-6. Record newly introduced facts for later canon updates.
+2. Before formal prose drafting, confirm a detailed outline with the user unless the user explicitly says the current outline is already final and approved.
+3. Build a writing brief: hard constraints, must-cover beats, opening state, segment progression, forbidden contradictions, style targets, continuity checks, and end hook.
+4. Draft pure prose only after the detailed outline is approved. Do not include placeholders, analysis, or hidden notes in the chapter body.
+5. Review once for blocking issues.
+6. Polish for rhythm, dialogue intent, scene texture, emotional specificity, and anti-AI patterns.
+7. Record newly introduced facts, character-state changes, relationship temperature changes, and opened/paid-off foreshadowing for later canon updates.
 
 ## Rules
 
+- Formal chapter writing is blocked until the user has reviewed and approved a detailed chapter outline.
+- The approved outline must include chapter goal, required information, relationship/situation change, opening state, segment-level progression, ending hook, foreshadowing/recovery, style reminders, and continuity checks.
 - Do not contradict established canon.
 - Do not solve a promised tension without replacing it with a new forward pull.
 - Keep dialogue motivated by desire, pressure, evasion, testing, or negotiation.
 - Make new entities identifiable by name, function, and memorable detail.
 - Do not use repeated generic beats such as "缓缓", "淡淡", "微微" as emotional shortcuts.
+- Do not repeat the previous chapter's function unless the new chapter escalates stakes, cost, relationship, or information.
+- If a chapter changes a character or relationship, make the change visible through a choice, behavior, or consequence, not only narration.
 
 ## References
 
@@ -41,6 +46,8 @@ Produce one publishable chapter from canon and the current chapter plan.
 - `../../references/shared/core-constraints.md`
 - `../../references/shared/strand-weave-pattern.md`
 - `../../references/shared/cool-points-guide.md`
+- `../../templates/output/大纲-章节小纲.md`
+- `../../templates/output/大纲-长线追踪.md`
 - `../../references/review-schema.md`
 
 Use `scripts/reference_search.py` for targeted Chinese webnovel craft lookup.

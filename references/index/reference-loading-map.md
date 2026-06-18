@@ -10,6 +10,20 @@
 
 > 「读取方式」：**区段** = 先 `Grep` 匹配 `^#{1,4} ` 定位真实标题锚点行号，再 `Read` offset/limit 取段（七个靶心大文件，锚点见末列）；**全文** = 短文件整体读。锚点用文件里的真实标题原文（含中文顿号「、」），不是计划简写。靶心文件与锚点出处见 `docs/architecture/phase0-slimming-and-read-audit-2026-06-06.md` §A.1。
 
+### 当前 Codex-native skills
+
+| Skill | 阶段 | 触发 | Reference | 读取方式 | 区段锚点（区段读时匹配此真实标题） |
+|-------|------|------|-----------|---------|-----------|
+| story-architect | foundation | 创建/更新作品基础设定 | `templates/output/作品总设定.md` | 全文 | — |
+| story-architect | character design | 创建/更新重要人物 | `templates/output/设定集-人物卡.md` | 全文 | — |
+| plot-planner | chapter planning | 拆章或细化单章 | `templates/output/大纲-章节小纲.md` | 全文 | — |
+| plot-planner | serial tracking | 规划多章/修订连载项目 | `templates/output/大纲-长线追踪.md` | 全文 | — |
+| chapter-writer | writing brief | 章纲不完整或需要写前任务书 | `templates/output/大纲-章节小纲.md` | 全文 | — |
+| chapter-writer | post-chapter notes | 章节改变人物/关系/伏笔/设定 | `templates/output/大纲-长线追踪.md` | 全文 | — |
+| canon-query | query | 查询主线、人物状态、关系线、伏笔或设定变动 | `templates/output/大纲-长线追踪.md` | 全文 | — |
+
+### Legacy webnovel-* map
+
 | Skill | 阶段 | 触发 | Reference | 读取方式 | 区段锚点（区段读时匹配此真实标题） |
 |-------|------|------|-----------|---------|-----------|
 | webnovel-init | Step 1 | always | `skills/webnovel-init/references/system-data-flow.md` | 全文 | — |

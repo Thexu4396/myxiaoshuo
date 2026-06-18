@@ -12,9 +12,10 @@ Answer project-canon questions from files, not memory guesses.
 ## Source Priority
 
 1. Confirmed canon files: `设定集/*.md`, `大纲/*.md`, accepted chapter notes, and project memory.
-2. Recent chapter text.
-3. Structured state files under `.webnovel/`, if present.
-4. Reference docs only for interpretation, never as project fact.
+2. Maintenance files such as `大纲/长线追踪.md`, character current-state sections, foreshadowing tables, and timeline files.
+3. Recent chapter text.
+4. Structured state files under `.webnovel/`, if present.
+5. Reference docs only for interpretation, never as project fact.
 
 ## References
 
@@ -22,6 +23,7 @@ Answer project-canon questions from files, not memory guesses.
 - `references/tag-specification.md`
 - `references/advanced/foreshadowing.md`
 - `../../references/shared/strand-weave-pattern.md`
+- `../../templates/output/大纲-长线追踪.md`
 
 ## Output
 
