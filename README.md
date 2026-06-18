@@ -10,7 +10,7 @@
 - `references/`: Chinese fiction rules, genre profiles, review schema, pacing/cool-point guidance, CSV knowledge tables.
 - `templates/`: setting, outline, genre, and golden-finger templates.
 - `scripts/reference_search.py`: local CSV craft-knowledge search helper.
-- `scripts/story_tools.py`: optional project skeleton and status helper.
+- `scripts/webnovel_tools.py`: optional project skeleton and status helper.
 
 ## Skills
 
