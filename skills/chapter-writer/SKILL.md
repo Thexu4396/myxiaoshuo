@@ -16,8 +16,8 @@ Produce one publishable chapter from canon and the current chapter plan.
 3. Build a writing brief: hard constraints, must-cover beats, opening state, segment progression, forbidden contradictions, style targets, continuity checks, and end hook.
 4. Draft pure prose only after the detailed outline is approved. Do not include placeholders, analysis, or hidden notes in the chapter body.
 5. Review once for blocking issues.
-6. Polish for rhythm, dialogue intent, scene texture, emotional specificity, and anti-AI patterns.
-7. Record newly introduced facts, character-state changes, relationship temperature changes, and opened/paid-off foreshadowing for later canon updates.
+6. Polish for rhythm, dialogue intent, scene texture, emotional specificity, and anti-AI patterns, removing formulaic AI phrasing so the chapter reads closer to natural human prose.
+7. Record newly introduced facts, character-state changes, relationship temperature changes, and opened/paid-off foreshadowing for later canon updates, and backfill the related outline or setting notes when the finished chapter adds or changes canon.
 
 ## Rules
 
@@ -30,6 +30,8 @@ Produce one publishable chapter from canon and the current chapter plan.
 - Do not use repeated generic beats such as "缓缓", "淡淡", "微微" as emotional shortcuts.
 - Do not repeat the previous chapter's function unless the new chapter escalates stakes, cost, relationship, or information.
 - If a chapter changes a character or relationship, make the change visible through a choice, behavior, or consequence, not only narration.
+- After drafting, explicitly run one anti-AI polish pass to remove summary voice, template phrasing, repeated sentence patterns, and hollow emotional labels.
+- After the chapter is finalized, update the relevant chapter outline and setting/state notes so canon files stay aligned with what was actually written.
 
 ## References
 
