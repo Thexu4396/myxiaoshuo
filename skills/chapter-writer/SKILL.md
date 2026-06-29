@@ -23,11 +23,13 @@ Produce one publishable chapter from canon and the current chapter plan.
 
 - Formal chapter writing is blocked until the user has reviewed and approved a detailed chapter outline.
 - The approved outline must include chapter goal, required information, relationship/situation change, opening state, segment-level progression, ending hook, foreshadowing/recovery, style reminders, and continuity checks.
+- Unless the user or project files explicitly override it, prose should default to a calm observational voice: restrained wording, concrete detail, visible pressure, and minimal authorial overstatement.
 - Do not contradict established canon.
 - Do not solve a promised tension without replacing it with a new forward pull.
 - Keep dialogue motivated by desire, pressure, evasion, testing, or negotiation.
 - Make new entities identifiable by name, function, and memorable detail.
 - Do not use repeated generic beats such as "缓缓", "淡淡", "微微" as emotional shortcuts.
+- Chapter titles must stay within 8 Chinese characters, remain concise and clear, and prioritize the chapter's sharpest event, anomaly, or judgment.
 - Do not repeat the previous chapter's function unless the new chapter escalates stakes, cost, relationship, or information.
 - If a chapter changes a character or relationship, make the change visible through a choice, behavior, or consequence, not only narration.
 - After drafting, explicitly run one anti-AI polish pass to remove summary voice, template phrasing, repeated sentence patterns, and hollow emotional labels.
